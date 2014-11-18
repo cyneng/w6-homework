@@ -13,3 +13,17 @@ function signUp()
 	var email = prompt("Enter your email address.");
 	document.getElementById("output-here").innerHTML = email;
 }
+
+//Extra Credit
+
+function montyPython()
+{
+	var quotes = [
+		"Now go away or I shall taunt you a second time!",
+		"Always look on the bright side of life.",
+		"Oh! Come and see the violence inherent in the system! Help, help! I'm being repressed!"
+	];
+
+	var randomNumber = Math.floor(Math.random()*quotes.length)
+	alert(quotes[randomNumber]);
+}
