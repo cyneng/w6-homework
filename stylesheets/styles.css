@@ -90,16 +90,16 @@ button.sign-in:hover {
   -webkit-box-shadow: inset 0 0 8px 2px #7e8da6, 0 1px 0 0 #eeeeee;
   box-shadow: inset 0 0 8px 2px #7e8da6, 0 1px 0 0 #eeeeee; }
 
-  /* blue pill (inspired by iTunes)
+  /* blue pill modified
 *******************************************************************************/
 button.montyPython {
-  background-color: #a5b8da;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a5b8da), color-stop(100%, #7089b3));
-  background-image: -webkit-linear-gradient(top, #a5b8da, #7089b3);
-  background-image: -moz-linear-gradient(top, #a5b8da, #7089b3);
-  background-image: -ms-linear-gradient(top, #a5b8da, #7089b3);
-  background-image: -o-linear-gradient(top, #a5b8da, #7089b3);
-  background-image: linear-gradient(top, #a5b8da, #7089b3);
+  background-color: #b26297;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b26297), color-stop(100%, #7089b3));
+  background-image: -webkit-linear-gradient(top, #b26297, #7089b3);
+  background-image: -moz-linear-gradient(top, #b26297, #7089b3);
+  background-image: -ms-linear-gradient(top, #b26297, #7089b3);
+  background-image: -o-linear-gradient(top, #b26297, #7089b3);
+  background-image: linear-gradient(top, #b26297, #7089b3);
   border-top: 1px solid #758fba;
   border-right: 1px solid #6c84ab;
   border-bottom: 1px solid #5c6f91;
@@ -115,13 +115,13 @@ button.montyPython {
   text-transform: uppercase;
   width: 150px; }
 button.montyPython:hover {
-  background-color: #9badcc;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9badcc), color-stop(100%, #687fa6));
-  background-image: -webkit-linear-gradient(top, #9badcc, #687fa6);
-  background-image: -moz-linear-gradient(top, #9badcc, #687fa6);
-  background-image: -ms-linear-gradient(top, #9badcc, #687fa6);
-  background-image: -o-linear-gradient(top, #9badcc, #687fa6);
-  background-image: linear-gradient(top, #9badcc, #687fa6);
+  background-color: #9d4086;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9d4086), color-stop(100%, #687fa6));
+  background-image: -webkit-linear-gradient(top, #9d4086, #687fa6);
+  background-image: -moz-linear-gradient(top, #9d4086, #687fa6);
+  background-image: -ms-linear-gradient(top, #9d4086, #687fa6);
+  background-image: -o-linear-gradient(top, #9d4086, #687fa6);
+  background-image: linear-gradient(top, #9d4086, #687fa6);
   border-top: 1px solid #6d86ad;
   border-right: 1px solid #647a9e;
   border-bottom: 1px solid #546685;
