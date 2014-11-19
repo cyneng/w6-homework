@@ -21,7 +21,8 @@ function montyPython()
 	var quotes = [
 		"Now go away or I shall taunt you a second time!",
 		"Always look on the bright side of life.",
-		"Oh! Come and see the violence inherent in the system! Help, help! I'm being repressed!"
+		"Oh! Come and see the violence inherent in the system! Help, help! I'm being repressed!",
+		"I fart in your general directon. Your mother was a hamster and your father smelt of elderberries."
 	];
 
 	var randomNumber = Math.floor(Math.random()*quotes.length)
